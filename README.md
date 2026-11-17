@@ -72,7 +72,7 @@ heart-disease-decision-tree/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/heart-disease-decision-tree.git
+git clone https://github.com/JoaoCichocki/heart-disease-decision-tree.git
 cd heart-disease-decision-tree
 ```
 
